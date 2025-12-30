@@ -1,0 +1,752 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3aa4749c_b01b61fb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "This commit seems to be squashed over multiple other changes with proper authorship removed as well.",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d52a16d5_e7b01583",
+        "filename": "techpack/audio/asoc/Kbuild",
+        "patchSetId": 1
+      },
+      "lineNbr": 271,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "All changes in this file are irrelevant to this commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9c588931_4e128931",
+        "filename": "techpack/audio/asoc/codecs/aqt1000/Kbuild",
+        "patchSetId": 1
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "How is this relevant to the change?",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8a3bdeb7_00600793",
+        "filename": "techpack/audio/asoc/codecs/aqt1000/Kbuild",
+        "patchSetId": 1
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "as well as this, also that is from CLO.",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "13af56bf_ae0da601",
+        "filename": "techpack/audio/asoc/codecs/aw88261/Kbuild",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0fc9a418_897288b3",
+        "filename": "techpack/audio/asoc/codecs/aw88261/aw882xx.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Why are you downgrading the driver version?",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "20bb5692_69fae769",
+        "filename": "techpack/audio/asoc/codecs/aw88261/aw882xx.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 818,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Is this the actual clipping \u0026 distortion \u0027fix\u0027?",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e5997543_8afd5954",
+        "filename": "techpack/audio/asoc/codecs/aw882xx/Kbuild",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4f4ec24a_d80d6113",
+        "filename": "techpack/audio/asoc/codecs/bolero/Kbuild",
+        "patchSetId": 1
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f40aca78_b099387f",
+        "filename": "techpack/audio/asoc/codecs/bolero/Kbuild",
+        "patchSetId": 1
+      },
+      "lineNbr": 163,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "323e9c52_4384509a",
+        "filename": "techpack/audio/asoc/codecs/csra66x0/Kbuild",
+        "patchSetId": 1
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "48a55b25_54ca7900",
+        "filename": "techpack/audio/asoc/codecs/csra66x0/Kbuild",
+        "patchSetId": 1
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5c58b08a_ed9cdc3c",
+        "filename": "techpack/audio/asoc/codecs/ep92/Kbuild",
+        "patchSetId": 1
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b8bf01bf_7849aa12",
+        "filename": "techpack/audio/asoc/codecs/ep92/Kbuild",
+        "patchSetId": 1
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2b145569_7471ee0f",
+        "filename": "techpack/audio/asoc/codecs/swr-dmic.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 685,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "For what?",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5d4244df_83400ccf",
+        "filename": "techpack/audio/asoc/codecs/wcd937x/wcd937x.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2100,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "24886482_82f22e54",
+        "filename": "techpack/audio/asoc/codecs/wcd937x/wcd937x.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2108,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "587030a8_ab4cbba7",
+        "filename": "techpack/audio/asoc/codecs/wcd937x/wcd937x.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2248,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "This entire bit is irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fdc6a07d_009306be",
+        "filename": "techpack/audio/asoc/codecs/wcd938x/wcd938x.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2800,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3f2b7eb8_cf849056",
+        "filename": "techpack/audio/asoc/codecs/wcd938x/wcd938x.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2807,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fd0fa6e0_22d0dc86",
+        "filename": "techpack/audio/asoc/codecs/wsa881x-analog.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 551,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fb95ffd3_650bb82b",
+        "filename": "techpack/audio/asoc/codecs/wsa883x/Kbuild",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0e7b1d0d_63320466",
+        "filename": "techpack/audio/asoc/codecs/wsa883x/Kbuild",
+        "patchSetId": 1
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7b767d1e_2fecc210",
+        "filename": "techpack/audio/asoc/holi.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 756,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c6b01a8b_9425f802",
+        "filename": "techpack/audio/asoc/holi.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 759,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f3af6976_be7f4687",
+        "filename": "techpack/audio/asoc/holi.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 764,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "This entire snippet is irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0a003991_f76577f1",
+        "filename": "techpack/audio/asoc/holi.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 772,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "41db4809_2e3a034a",
+        "filename": "techpack/audio/asoc/holi.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 797,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "12fbdad3_f631f7ef",
+        "filename": "techpack/audio/asoc/holi.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 812,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Irrelevant to the commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ec6a9b3b_e08d5c3f",
+        "filename": "techpack/audio/asoc/lahaina.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 9552,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Why was it moved up?",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "09b3a482_9c9a92cd",
+        "filename": "techpack/audio/asoc/msm-common.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "What was even changed here?",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b1bbdfd9_0706da2c",
+        "filename": "techpack/audio/asoc/msm-compress-q6-v2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 4146,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Why?",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6b39d317_9638f317",
+        "filename": "techpack/audio/asoc/msm-compress-q6-v2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 4188,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Why?",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1c11d2f3_a1c0d2ba",
+        "filename": "techpack/audio/asoc/msm-pcm-routing-v2.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2311,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "What is the purpose of all the changes in this file?",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "65d63239_a2379fff",
+        "filename": "techpack/audio/asoc/msm-qti-pp-config.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 181,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Why?",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7d434868_2f042998",
+        "filename": "techpack/audio/config/lahainaauto.conf",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "All changes in this file are irrelevant to this commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e1811c25_730a1375",
+        "filename": "techpack/audio/dsp/Kbuild",
+        "patchSetId": 1
+      },
+      "lineNbr": 246,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "All changes in this file are irrelevant to this commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "364d9f71_ec47200b",
+        "filename": "techpack/audio/dsp/codecs/Kbuild",
+        "patchSetId": 1
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "All changes in this file are irrelevant to this commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "44d93987_c5083959",
+        "filename": "techpack/audio/dsp/q6asm.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "All changes in this file are irrelevant to this commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0b86f7f8_2170e144",
+        "filename": "techpack/audio/dsp/q6lsm.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2133,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Why was the data type changed?",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "60ed53f4_94b8318d",
+        "filename": "techpack/audio/dsp/q6voice.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 8096,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Why?",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6a8798ef_3b12da59",
+        "filename": "techpack/audio/dsp/q6voice.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 8125,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "Why?",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d280757f_ad0a2803",
+        "filename": "techpack/audio/ipc/Kbuild",
+        "patchSetId": 1
+      },
+      "lineNbr": 177,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "All changes to this file are irrelevant to this commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f7fe7a0d_5fc5f059",
+        "filename": "techpack/audio/soc/Kbuild",
+        "patchSetId": 1
+      },
+      "lineNbr": 189,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 1,
+      "message": "All changes in this file are irrelevant to this commit",
+      "revId": "da96aeb52a9de2dabccd311ef1b7001e22a7f992",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "53aa0699_93936621",
+        "filename": "techpack/audio/asoc/codecs/aw88261/aw882xx.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1801,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 0,
+      "message": "Why was this entire codeblock removed?",
+      "revId": "4324769973e841a9be496f9c10c8862ec58456f3",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f6f795b2_eb998870",
+        "filename": "techpack/audio/asoc/msm-lsm-client.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 224,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 0,
+      "message": "All changes in this file are irrelevant to this commit",
+      "revId": "4324769973e841a9be496f9c10c8862ec58456f3",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "14aa4e81_e23087cb",
+        "filename": "techpack/audio/asoc/msm-qti-pp-config.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 0,
+      "message": "Why?",
+      "revId": "4324769973e841a9be496f9c10c8862ec58456f3",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f65375d2_4ce2d53e",
+        "filename": "techpack/audio/dsp/q6lsm.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2133,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 0,
+      "message": "Why?",
+      "revId": "4324769973e841a9be496f9c10c8862ec58456f3",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9955ebdb_740a2cc9",
+        "filename": "techpack/audio/dsp/q6voice.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 3325,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 0,
+      "message": "Why?",
+      "revId": "4324769973e841a9be496f9c10c8862ec58456f3",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1c2fc9d3_77bb6d19",
+        "filename": "techpack/audio/dsp/q6voice.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 3528,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2025-12-30T12:54:40Z",
+      "side": 0,
+      "message": "Why?",
+      "revId": "4324769973e841a9be496f9c10c8862ec58456f3",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
