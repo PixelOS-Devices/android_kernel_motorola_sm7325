@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f6ac0473_28d1f74e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000178
+      },
+      "writtenOn": "2026-07-10T03:51:33Z",
+      "side": 1,
+      "message": "Hello everyone.\n\n1- If aw_dev_set_afe_module_en() fails (e.g., DSP message timeout), we print the error but still proceed to print the \u0027cur state\u0027 and return 0. Should we return ret instead of 0 to let the upper layers handle the failure?\n\n2- Global State: I see g_algo_rx_en is being evaluated. If this device features a stereo setup (dual AW88261 instances), could a global variable cause a race condition between the left and right amps? Might be safer if tied to the struct aw882xx context.\n\nThat\u0027s all thank you",
+      "revId": "dc4b92699c68d01c08123f7a1298ff2434604b26",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
